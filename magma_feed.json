@@ -1,0 +1,26 @@
+{
+  "timestamp": "2026-06-16T09:00:00Z",
+  "volcanoes": [
+    {
+      "volcano_id": 1,
+      "name": "Merapi",
+      "status": "Awas",
+      "latitude": -7.5407,
+      "longitude": 110.4461
+    },
+    {
+      "volcano_id": 2,
+      "name": "Semeru",
+      "status": "Siaga",
+      "latitude": -8.1080,
+      "longitude": 112.9220
+    },
+    {
+      "volcano_id": 3,
+      "name": "Kelud",
+      "status": "Waspada",
+      "latitude": -7.9350,
+      "longitude": 112.3080
+    }
+  ]
+}
