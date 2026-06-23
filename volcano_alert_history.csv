@@ -1,6 +1,0 @@
-alert_id,event_time,volcano_name,status
-1,2026-06-16T08:10:00Z,Merapi,Siaga
-2,2026-06-16T08:15:00Z,Merapi,Awas
-3,2026-06-16T08:30:00Z,Semeru,Siaga
-4,2026-06-16T08:50:00Z,Sinabung,Siaga
-5,2026-06-16T09:00:00Z,Lewotobi,Awas
