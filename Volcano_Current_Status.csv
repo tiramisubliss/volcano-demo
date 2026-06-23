@@ -18,7 +18,7 @@ volcano_id,volcano_name,latitude,longitude,province,island,volcano_type,elevatio
 17,Tangkuban Perahu,-6.7700,107.6000,Jawa Barat,Java,Stratovolcano,2084,Normal,1,2026-06-22T08:00:00Z
 18,Galunggung,-7.2500,108.0580,Jawa Barat,Java,Stratovolcano,2167,Waspada,2,2026-06-22T08:00:00Z
 19,Kerinci,-1.6970,101.2640,Jambi,Sumatra,Stratovolcano,3805,Siaga,3,2026-06-22T08:00:00Z
-20,Marapi,-0.3810,100.4730,Sumatera Barat,Sumatra,Stratovolcano,2891,Awas,4,2026-06-22T08:00:00Z
+20,Marapi,-0.3810,100.4730,Sumatera Barat,Sumatra,Stratovolcano,2891,Siaga,3,2026-06-22T08:00:00Z
 1,Merapi,-7.5407,110.4461,DIY-Jawa Tengah,Java,Stratovolcano,2968,Awas,4,2026-06-22T08:05:00Z
 3,Kelud,-7.9350,112.3080,Jawa Timur,Java,Stratovolcano,1731,Waspada,2,2026-06-22T08:05:00Z
 15,Bromo,-7.9420,112.9530,Jawa Timur,Java,Cinder Cone,2329,Siaga,3,2026-06-22T08:05:00Z
