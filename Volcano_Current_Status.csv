@@ -19,7 +19,39 @@ volcano_id,volcano_name,latitude,longitude,province,island,volcano_type,elevatio
 18,Galunggung,-7.2500,108.0580,Jawa Barat,Java,Stratovolcano,2167,Waspada,2,2026-06-22T08:00:00Z
 19,Kerinci,-1.6970,101.2640,Jambi,Sumatra,Stratovolcano,3805,Siaga,3,2026-06-22T08:00:00Z
 20,Marapi,-0.3810,100.4730,Sumatera Barat,Sumatra,Stratovolcano,2891,Awas,4,2026-06-22T08:00:00Z
+21,Awu,3.6820,125.4460,Sulawesi Utara,Sangihe,Stratovolcano,1320,Waspada,2,2026-06-22T08:00:00Z
+22,Lokon,1.3580,124.7920,Sulawesi Utara,Sulawesi,Stratovolcano,1580,Waspada,2,2026-06-22T08:00:00Z
+23,Mahawu,1.3580,124.8700,Sulawesi Utara,Sulawesi,Stratovolcano,1324,Normal,1,2026-06-22T08:00:00Z
+24,Gamkonora,1.3800,127.5300,Maluku Utara,Halmahera,Stratovolcano,1635,Normal,1,2026-06-22T08:00:00Z
+25,Egon,-8.6700,122.4500,NTT,Flores,Stratovolcano,1703,Normal,1,2026-06-22T08:00:00Z
+26,Lewotolok,-8.2740,123.5050,NTT,Lembata,Stratovolcano,1423,Siaga,3,2026-06-22T08:00:00Z
+27,Ili Werung,-8.5380,123.5730,NTT,Lembata,Stratovolcano,1018,Normal,1,2026-06-22T08:00:00Z
+28,Inielika,-8.7300,120.9800,NTT,Flores,Stratovolcano,1559,Normal,1,2026-06-22T08:00:00Z
+29,Kelimutu,-8.7700,121.8200,NTT,Flores,Caldera,1639,Normal,1,2026-06-22T08:00:00Z
+30,Iya,-8.8970,121.6450,NTT,Flores,Stratovolcano,637,Waspada,2,2026-06-22T08:00:00Z
+31,Sangeang Api,-8.2000,119.0700,NTB,Sangeang,Complex Volcano,1949,Waspada,2,2026-06-22T08:00:00Z
+32,Tambora,-8.2500,118.0000,NTB,Sumbawa,Caldera,2850,Normal,1,2026-06-22T08:00:00Z
+33,Batur,-8.2420,115.3750,Bali,Bali,Caldera,1717,Normal,1,2026-06-22T08:00:00Z
+34,Ijen,-8.0580,114.2420,Jawa Timur,Java,Stratovolcano,2386,Waspada,2,2026-06-22T08:00:00Z
+35,Arjuno-Welirang,-7.7250,112.5800,Jawa Timur,Java,Stratovolcano,3339,Normal,1,2026-06-22T08:00:00Z
+36,Lawu,-7.6250,111.1950,Jawa Tengah-Jawa Timur,Java,Stratovolcano,3265,Normal,1,2026-06-22T08:00:00Z
+37,Sumbing,-7.3840,110.0700,Jawa Tengah,Java,Stratovolcano,3371,Normal,1,2026-06-22T08:00:00Z
+38,Sindoro,-7.3000,109.9920,Jawa Tengah,Java,Stratovolcano,3136,Normal,1,2026-06-22T08:00:00Z
+39,Slamet,-7.2420,109.2080,Jawa Tengah,Java,Stratovolcano,3428,Waspada,2,2026-06-22T08:00:00Z
+40,Dieng,-7.2000,109.9200,Jawa Tengah,Java,Complex Volcano,2565,Waspada,2,2026-06-22T08:00:00Z
+41,Ciremai,-6.8920,108.4000,Jawa Barat,Java,Stratovolcano,3078,Normal,1,2026-06-22T08:00:00Z
+42,Gede,-6.7800,106.9800,Jawa Barat,Java,Stratovolcano,2958,Normal,1,2026-06-22T08:00:00Z
+43,Salak,-6.7200,106.7300,Jawa Barat,Java,Stratovolcano,2211,Normal,1,2026-06-22T08:00:00Z
+44,Kaba,-3.5200,102.6200,Bengkulu,Sumatra,Stratovolcano,1952,Normal,1,2026-06-22T08:00:00Z
+45,Dempo,-4.0300,103.1300,Sumatera Selatan,Sumatra,Stratovolcano,3173,Waspada,2,2026-06-22T08:00:00Z
+46,Talang,-0.9780,100.6790,Sumatera Barat,Sumatra,Stratovolcano,2597,Normal,1,2026-06-22T08:00:00Z
+47,Tandikat,-0.4330,100.3170,Sumatera Barat,Sumatra,Stratovolcano,2438,Normal,1,2026-06-22T08:00:00Z
+48,Sorikmarapi,0.6850,99.5370,Sumatera Utara,Sumatra,Stratovolcano,2145,Waspada,2,2026-06-22T08:00:00Z
+49,Peuet Sague,4.9140,96.3290,Aceh,Sumatra,Complex Volcano,2801,Normal,1,2026-06-22T08:00:00Z
+50,Seulawah Agam,5.4480,95.6580,Aceh,Sumatra,Stratovolcano,1810,Normal,1,2026-06-22T08:00:00Z
 1,Merapi,-7.5407,110.4461,DIY-Jawa Tengah,Java,Stratovolcano,2968,Awas,4,2026-06-22T08:05:00Z
 3,Kelud,-7.9350,112.3080,Jawa Timur,Java,Stratovolcano,1731,Waspada,2,2026-06-22T08:05:00Z
 15,Bromo,-7.9420,112.9530,Jawa Timur,Java,Cinder Cone,2329,Siaga,3,2026-06-22T08:05:00Z
 20,Marapi,-0.3810,100.4730,Sumatera Barat,Sumatra,Stratovolcano,2891,Siaga,3,2026-06-22T08:05:00Z
+26,Lewotolok,-8.2740,123.5050,NTT,Lembata,Stratovolcano,1423,Waspada,2,2026-06-22T08:05:00Z
+39,Slamet,-7.2420,109.2080,Jawa Tengah,Java,Stratovolcano,3428,Siaga,3,2026-06-22T08:05:00Z
