@@ -1,0 +1,121 @@
+[
+  {
+    "sensor_id": "PT-MT-01",
+    "pipeline_id": "41acd4dd50fd4a908bfac6dd5fded2ab",
+    "timestamp": "2026-07-06T16:50:00Z",
+    "actual_pressure": 199.2,
+    "flow_rate": 1200.0
+  },
+  {
+    "sensor_id": "PT-MT-01",
+    "pipeline_id": "41acd4dd50fd4a908bfac6dd5fded2ab",
+    "timestamp": "2026-07-06T16:55:00Z",
+    "actual_pressure": 195.0,
+    "flow_rate": 1210.0
+  },
+  {
+    "sensor_id": "PT-MT-01",
+    "pipeline_id": "41acd4dd50fd4a908bfac6dd5fded2ab",
+    "timestamp": "2026-07-06T17:00:00Z",
+    "actual_pressure": 135.4,
+    "flow_rate": 1450.0
+  },
+  {
+    "sensor_id": "PT-LM-02",
+    "pipeline_id": "876120fac7f7446d8b181e4a744e3a7f",
+    "timestamp": "2026-07-06T17:00:00Z",
+    "actual_pressure": 199.8,
+    "flow_rate": 952.0
+  },
+  {
+    "sensor_id": "PT-MB-03",
+    "pipeline_id": "75f5998f9d6d4c418d880890d6729428",
+    "timestamp": "2026-07-06T17:00:00Z",
+    "actual_pressure": 198.5,
+    "flow_rate": 882.0
+  },
+  {
+    "sensor_id": "PT-CB-04",
+    "pipeline_id": "08b745ad3ade4e11adb2222690ca8e28",
+    "timestamp": "2026-07-06T17:00:00Z",
+    "actual_pressure": 151.0,
+    "flow_rate": 448.0
+  },
+  {
+    "sensor_id": "PT-NB-05",
+    "pipeline_id": "5f1df9cadfee4ad18af00443d5f77048",
+    "timestamp": "2026-07-06T17:00:00Z",
+    "actual_pressure": 148.9,
+    "flow_rate": 601.0
+  },
+  {
+    "sensor_id": "PT-TN-06",
+    "pipeline_id": "a3d54f1dbcd54294a9a4f0e88738d3af",
+    "timestamp": "2026-07-06T16:50:00Z",
+    "actual_pressure": 150.5,
+    "flow_rate": 720.0
+  },
+  {
+    "sensor_id": "PT-TN-06",
+    "pipeline_id": "a3d54f1dbcd54294a9a4f0e88738d3af",
+    "timestamp": "2026-07-06T16:55:00Z",
+    "actual_pressure": 141.0,
+    "flow_rate": 710.0
+  },
+  {
+    "sensor_id": "PT-TN-06",
+    "pipeline_id": "a3d54f1dbcd54294a9a4f0e88738d3af",
+    "timestamp": "2026-07-06T17:00:00Z",
+    "actual_pressure": 110.2,
+    "flow_rate": 650.0
+  },
+  {
+    "sensor_id": "PT-SKG-07",
+    "pipeline_id": "2201a16eb0f5400d9cacc43390b8b22a",
+    "timestamp": "2026-07-06T17:00:00Z",
+    "actual_pressure": 151.5,
+    "flow_rate": 1105.0
+  },
+  {
+    "sensor_id": "PT-NC-08",
+    "pipeline_id": "274f9dee9beb4df78987dd93c71fd8b3",
+    "timestamp": "2026-07-06T17:00:00Z",
+    "actual_pressure": 148.8,
+    "flow_rate": 549.0
+  },
+  {
+    "sensor_id": "PT-KM-09",
+    "pipeline_id": "5a11b5ac6d3e4534b0f2495394d89157",
+    "timestamp": "2026-07-06T16:50:00Z",
+    "actual_pressure": 210.0,
+    "flow_rate": 1300.0
+  },
+  {
+    "sensor_id": "PT-KM-09",
+    "pipeline_id": "5a11b5ac6d3e4534b0f2495394d89157",
+    "timestamp": "2026-07-06T16:55:00Z",
+    "actual_pressure": 290.0,
+    "flow_rate": 1350.0
+  },
+  {
+    "sensor_id": "PT-KM-09",
+    "pipeline_id": "5a11b5ac6d3e4534b0f2495394d89157",
+    "timestamp": "2026-07-06T17:00:00Z",
+    "actual_pressure": 365.2,
+    "flow_rate": 1400.0
+  },
+  {
+    "sensor_id": "PT-TT-10",
+    "pipeline_id": "dc74a133885746ffa35326ee12ad7cbf",
+    "timestamp": "2026-07-06T17:00:00Z",
+    "actual_pressure": 149.9,
+    "flow_rate": 798.0
+  },
+  {
+    "sensor_id": "PT-KP-11",
+    "pipeline_id": "4741e8fb571f46f193d30d32de39a24c",
+    "timestamp": "2026-07-06T17:00:00Z",
+    "actual_pressure": 151.1,
+    "flow_rate": 299.0
+  }
+]
